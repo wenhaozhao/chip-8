@@ -1,0 +1,17 @@
+[package]
+name = "chip8"
+version = "0.1.0"
+edition = "2021"
+
+[features]
+log_debug = []
+
+[dependencies]
+
+rand = "0.8.5"
+sdl2 = "0.35.2"
+
+
+
+
+

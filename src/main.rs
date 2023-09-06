@@ -1,4 +1,4 @@
-use std::{fs, process};
+use std::{env, fs, process};
 use std::io::Read;
 
 use crate::chip8::cpu::CPU;
